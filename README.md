@@ -1,4 +1,4 @@
-<center>## Hi there 👋</center>
+<div align="center>## Hi there 👋</div>
 <div align="center">
 <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42gyenogsan-000000.svg?style=for-the-badge&logo=42&logoColor=ffffff"/></a>
 <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank"><img src="https://img.shields.io/badge/c-000000.svg?style=for-the-badge&logo=c&logoColor=A8B9CC"/></a>
