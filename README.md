@@ -12,10 +12,7 @@
 
 
 </br>
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldtg&layout=compact)
-</div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldtg)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
