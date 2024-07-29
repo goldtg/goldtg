@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 <a href="https://42gyeongsan.kr/ko/main.do" target="_blank"><img src="https://img.shields.io/badge/42gyenogsan-000000.svg?style=for-the-badge&logo=42&logoColor=ffffff"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/langauge-000000.svg?style=for-the-badge&logo=c&logoColor=A8B9CC"/></a>
 
 <!--
 **goldtg/goldtg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
