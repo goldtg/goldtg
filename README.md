@@ -8,7 +8,7 @@
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=F05032"/></a>
 
 
-![goldtg's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldtg&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=goldtg&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goldtg&layout=compact)
 
 
