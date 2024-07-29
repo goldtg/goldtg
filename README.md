@@ -6,7 +6,7 @@
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/gitgub pages-000000.svg?style=for-the-badge&logo=github&logoColor=181717"/></a>
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=F05032"/></a>
-<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/github pages-000000.svg?style=for-the-badge&logo=githubpages&logoColor=222222"/></a>
+<a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/github pages-000000.svg?style=for-the-badge&logo=github pages&logoColor=222222"/></a>
 
 
 <!--
