@@ -8,9 +8,13 @@
 <a href="https://developer.mozilla.org/ko/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/git-000000.svg?style=for-the-badge&logo=git&logoColor=F05032"/></a>
 </div>
 
+<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=goldtg" />
 </a>
+</div>
+
 
 <br>
 
